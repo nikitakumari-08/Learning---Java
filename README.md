@@ -1,2 +1,2 @@
-# Learning --- Ja
+# Learning --- J
  
