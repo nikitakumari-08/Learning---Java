@@ -1,2 +1,2 @@
 # Learning --- Java
- gith
+ git
