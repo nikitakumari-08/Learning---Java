@@ -4,7 +4,7 @@
 Welcome to my Java Learning Repository!
 This space showcases my learning journey in Java programming — through hands-on code, exercises, mini-projects, and real-world scenarios.
 
-> 📘 Based on the *"Java Programming Masterclass for Software Developers"* by **Tim Buchalka** (Udemy), a highly acclaimed course for building a strong foundation in Java.
+> 📘 Based on the "Java Programming Masterclass for Software Developers" by Tim Buchalka (Udemy), a highly acclaimed course for building a strong foundation in Java.
 
 ---
 
