@@ -1,7 +1,3 @@
-# Learning --- Java
- Here's your fully customized and professional **Java Learning Repository README**, with your name and links added:
-
----
 
 # 🚀 Java Programming Practice Repository
 
