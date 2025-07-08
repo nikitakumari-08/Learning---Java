@@ -88,7 +88,9 @@ This repository includes:
 ## ✍️ Author
 
 Name: Nikita Kumari
+
 GitHub: [nikitakumari-08](https://github.com/nikitakumari-08)
+
 LinkedIn: [Nikita Kumari](https://www.linkedin.com/in/nikita-kumari-828bb9368)
 
 ---
