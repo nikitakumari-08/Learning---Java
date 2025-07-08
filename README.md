@@ -104,7 +104,7 @@ This repository includes:
 
 > *"Learning a programming language isn't about completing tutorials — it’s about writing, testing, failing, and improving through thousands of lines of code."*
 
-This repository is a reflection of that philosophy — and my **commitment** to mastering Java, one program at a time.
+This repository is a reflection of that philosophy — and my commitment to mastering Java, one program at a time.
 
 ---
 
