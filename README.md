@@ -55,7 +55,7 @@ This repository includes:
 
 ## 📚 Topics Covered
 
-| **Category**          | **Topics**                                            |
+| Category          | Topics                                           |
 | --------------------- | ----------------------------------------------------- |
 | Java Basics           | Variables, Operators, Loops, Conditionals             |
 | Arrays & Methods      | 1D/2D Arrays, Method Overloading, Recursion           |
@@ -71,38 +71,38 @@ This repository includes:
 
 ## 🛠️ How to Run
 
-1. **Clone this repository**
+1. Clone this repository
 2. 
    git clone https://github.com/nikitakumari-08/java-learning.git
    ```
-3. **Open in your preferred IDE**
+3. Open in your preferred IDE
 
    * Recommended: IntelliJ IDEA, Eclipse, or VSCode
 4. Navigate to any folder (e.g., `/Basics`, `/OOP`)
 5. Open the `.java` file, compile and run
 
-> ⚡ *For GUI projects, make sure JavaFX is properly set up in your IDE*
+> ⚡ For GUI projects, make sure JavaFX is properly set up in your IDE
 
 ---
 
 ## ✍️ Author
 
-**Name:** Nikita Kumari
-**GitHub:** [nikitakumari-08](https://github.com/nikitakumari-08)
-**LinkedIn:** [Nikita Kumari](https://www.linkedin.com/in/nikita-kumari-828bb9368)
+Name: Nikita Kumari
+GitHub: [nikitakumari-08](https://github.com/nikitakumari-08)
+LinkedIn: [Nikita Kumari](https://www.linkedin.com/in/nikita-kumari-828bb9368)
 
 ---
 
 ## 🙌 Acknowledgments
 
-* Huge thanks to **Tim Buchalka** for the amazing Java Masterclass
-* Inspired by the mission to **learn → build → grow**
+* Huge thanks to Tim Buchalka for the amazing Java Masterclass
+* Inspired by the mission to learn → build → grow
 
 ---
 
 ## 📣 Final Note
 
-> *"Learning a programming language isn't about completing tutorials — it’s about writing, testing, failing, and improving through thousands of lines of code."*
+> "Learning a programming language isn't about completing tutorials — it’s about writing, testing, failing, and improving through thousands of lines of code."
 
 This repository is a reflection of that philosophy — and my commitment to mastering Java, one program at a time.
 
@@ -110,7 +110,7 @@ This repository is a reflection of that philosophy — and my commitment to mast
 
 ## 🔥 Keep Building. Keep Growing. Keep Winning.
 
----
+
 
 Let me know if you'd like a custom **repository banner**, **badge set**, or **project README template** for your mini-projects.
 
