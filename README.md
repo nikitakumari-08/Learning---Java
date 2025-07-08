@@ -74,7 +74,7 @@ This repository includes:
 1. Clone this repository
 2. 
    git clone https://github.com/nikitakumari-08/java-learning.git
-   ```
+
 3. Open in your preferred IDE
 
    * Recommended: IntelliJ IDEA, Eclipse, or VSCode
