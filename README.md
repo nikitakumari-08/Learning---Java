@@ -72,15 +72,14 @@ This repository includes:
 ## 🛠️ How to Run
 
 1. **Clone this repository**
-
-   ```bash
+2. 
    git clone https://github.com/nikitakumari-08/java-learning.git
    ```
-2. **Open in your preferred IDE**
+3. **Open in your preferred IDE**
 
    * Recommended: IntelliJ IDEA, Eclipse, or VSCode
-3. Navigate to any folder (e.g., `/Basics`, `/OOP`)
-4. Open the `.java` file, compile and run
+4. Navigate to any folder (e.g., `/Basics`, `/OOP`)
+5. Open the `.java` file, compile and run
 
 > ⚡ *For GUI projects, make sure JavaFX is properly set up in your IDE*
 
