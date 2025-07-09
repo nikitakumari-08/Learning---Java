@@ -22,7 +22,7 @@ This repository includes:
 * 🖼️ GUI Projects (JavaFX, AWT, Swing)
 * 🚧 Mini-projects combining multiple concepts
 
----
+
 
 ## 🗂️ Folder Structure
 
