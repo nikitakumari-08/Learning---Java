@@ -8,7 +8,7 @@ This space showcases my learning journey in Java programming — through hands-o
 
 ---
 
-## 🧠 What’s Insi
+## 🧠 What’s Insid
 
 This repository includes:
 
