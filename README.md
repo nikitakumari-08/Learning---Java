@@ -51,7 +51,7 @@ This repository includes:
     - Real-world inspired Console Projects
 ```
 
----
+--
 
 ## 📚 Topics Covered
 
