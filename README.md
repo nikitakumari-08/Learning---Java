@@ -8,7 +8,7 @@ This space showcases my learning journey in Java programming — through hands-o
 
 ---
 
-## 🧠 What’s I
+## 🧠 What’s In
 
 This repository includes:
 
