@@ -114,7 +114,5 @@ This repository is a reflection of that philosophy — and my commitment to mast
 
 
 
-Let me know if you'd like a custom **repository banner**,
-
-
+Let me know if you'd like a custom **
    
